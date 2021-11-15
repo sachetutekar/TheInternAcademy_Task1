@@ -10,4 +10,4 @@ TASK 1 :- Sales management has gained importance to meet increasing competition 
           
 Here , The Amazon Dataset is used in this Task. To Analyse the data PowerBI is been use. 
 
-My team-mates are Sachet Utekar , Eshika Agarwal
+My teammates are Ketaki Raut & Eshika Agarwal
